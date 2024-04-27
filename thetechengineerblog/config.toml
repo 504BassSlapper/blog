@@ -1,0 +1,6 @@
+baseURL = "https://504BassSlapper.github.io"
+languageCode = "en-us"
+title = "My new test blog"
+
+
+theme = "Mainroad"

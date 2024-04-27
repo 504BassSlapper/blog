@@ -1,0 +1,8 @@
+[submodule "thetechengineerblog/504BassSlapper.github.io"]
+	path = thetechengineerblog/504BassSlapper.github.io
+	url = https://github.com/504BassSlapper/504BassSlapper.github.io.git
+	branch = master
+[submodule "thetechengineerblog/public"]
+	path = thetechengineerblog/public
+	url = https://github.com/504BassSlapper/504BassSlapper.github.io.git
+	branch = master
