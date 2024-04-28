@@ -7,6 +7,21 @@ useFaviconGenerator = true             # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
+[languages]
+[languages.en]
+title = "Hugo Zzo Theme"
+languageName = "English"
+weight = 1
+languagedir = "ltr"
+contentdir = "content/en"
+
+[languages.ko]
+title = "Hugo Zzo Theme"
+languageName = "한국어"
+weight = 2
+languagedir = "ltr"
+contentdir = "content/ko"
+
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
 notAllowedTypesInHome = [
   "contact",
