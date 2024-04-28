@@ -32,7 +32,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Twitter Simple Shortcode
 
-{{< twitter_simple test 1085870671291310081 >}}
+{{< twitter_simple right 1085870671291310081 >}}
 
 <br>
 
